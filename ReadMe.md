@@ -1,6 +1,6 @@
 这个文档是有关数据库知识和数据库优化的
 
-##MySQL基础：
+#### MySQL基础：
 
 -sql语法练习
 
@@ -22,7 +22,7 @@
 
 -锁机制
 
-##MySQL优化
+#### MySQL优化
 
 -profile，performance_schema性能监控
 
